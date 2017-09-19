@@ -1,0 +1,10 @@
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\bin\Debug\Feistel.exe.config
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\bin\Debug\Feistel.exe
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\bin\Debug\Feistel.pdb
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.csprojResolveAssemblyReference.cache
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.Form1.resources
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.Properties.Resources.resources
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.csproj.GenerateResource.Cache
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.csproj.CoreCompileInputs.cache
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.exe
+D:\5 семестр\Крипта\Лаба 1\Feistel\Feistel\obj\Debug\Feistel.pdb
